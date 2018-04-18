@@ -1,0 +1,2 @@
+<p>根据<a href="http://t.imooc.com/learn/425" target="_blank">侧栏工具条开发</a>视频做的,包含全部文件,hmmmm,图标字体是我自己找的</p><ol class=" list-paddingleft-2" style="list-style-type: decimal;"><li><p>背景图片方式</p><p>优点: 兼容性好,可以兼容到IE6和IE7,html结构简单</p><p>缺点:由于使用了图片,对于性能稍微有点影响</p></li><li><p>图标字体方式</p><p>优点:性能好点</p><p>缺点:不兼容IE6和IE7,html结构复杂点</p></li><li><p>before-after伪类方式</p><p>优点:性能好,html结构简单</p><p>缺点:不兼容IE6和IE7,css稍微复杂点</p></li></ol><p>效果截图:</p><p><img src="http://img.mukewang.com/55c020b30001cac105000402.jpg" alt="http://img.mukewang.com/55c020b30001cac105060406.jpg"/></p>
+
